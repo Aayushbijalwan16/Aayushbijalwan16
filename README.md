@@ -1,5 +1,16 @@
-# Aayush-Bijalwan
-<img align="right" alt="coding" width="450" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">   
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--l6O_ZkIM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yceo3xk3of14d3hbdkdp.png)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Aayush Bijawlan</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<img align="right" alt="coding" width="450" height="400" src="https://img.freepik.com/premium-vector/boy-working-laptop-with-coffee-illustration-cactus-flower-flat-cartoon-style_586360-362.jpg?w=740">
+
+- 🔭 I’m currently working on **Java Script**
+
+- 🌱 I’m currently learning **Javascript, UI/UX**
+
+- 💬 Ask me about **HTML, CSS, JS**
+
+- 📫 How to reach me **aayushbijawlan408@gmail.com**   
   
 ## 🌐 Socials:       
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/[aayush-bijalwan](www.linkedin.com/in/aayush-bijalwan-9b43bb241)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Bijalwan_aayush)
@@ -10,13 +21,11 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aayushbijalwan16&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aayushbijalwan16&theme=blue-green&hide_border=false)<br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushbijalwan16&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Prachichhatrola" width="292px"/> </br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushbijalwan16&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Aayush Bijalwan" width="292px"/> </br>
     
 ---
-![](https://visitcount.itsvg.in/api?id=Aayushbijalwan16&icon=0&color=0)
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayushbijawla16&label=Profile%20views&color=0e75b6&style=flat" alt="Aayush Bijalwan"/></p>
+<br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-<br><br>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> Thanks for Visiting
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> Thanks for Visiting
