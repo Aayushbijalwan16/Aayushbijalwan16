@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Java Script**
 
-- 🌱 I’m currently learning **Javascript, UI/UX**
+- 🌱 I’m currently learning **Javascript, JAVA**
 
 - 💬 Ask me about **HTML, CSS, JS**
 
