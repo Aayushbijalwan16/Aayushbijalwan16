@@ -24,7 +24,7 @@
 
 **Github Trophies**
 
-![Github Trophy] (https://github-profile-trophy.vercel.app/?username=aayushbijalwan16&theme=discord)    
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=aayushbijalwan16&theme=discord)    
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayushbijawla16&label=Profile%20views&color=0e75b6&style=flat" alt="Aayush Bijalwan"/></p>
 <br>
