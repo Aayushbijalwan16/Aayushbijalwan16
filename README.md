@@ -26,6 +26,7 @@
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=aayushbijalwan16&theme=discord)    
 ---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aayushbijalwan16&bg_color=282024&color=5a9e4c&line=4c9e5d&point=3e413f&area=true&hide_border=true)]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aayushbijawla16&label=Profile%20views&color=0e75b6&style=flat" alt="Aayush Bijalwan"/></p>
 <br>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
